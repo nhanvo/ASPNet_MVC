@@ -1,1 +1,2 @@
-# ASPNet_MVC
+# onlineshop
+Online Shop Project for training ASP.NET MVC course
